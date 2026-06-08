@@ -38,9 +38,13 @@ Tecnologias utilizadas:
 
 ## Estatísticas
 
-![Contribuições](https://github-contributor-stats.vercel.app/api?username=2profile&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2profile&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
+</p>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=2profile&layout=compact&theme=github_dark&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2profile&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ## Contato
 
