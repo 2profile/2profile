@@ -52,7 +52,7 @@ Tecnologias utilizadas:
   <a href="mailto:ryanebebel@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/ryan-santos-b08049368/">
+  <a href="https://www.linkedin.com/in/ryan-santos-b08049368/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
