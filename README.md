@@ -38,21 +38,9 @@ Tecnologias utilizadas:
 
 ## Estatísticas
 
-<p>
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=2profile&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
-    alt="Estatísticas do GitHub de Ryan Santos"
-  />
-</p>
+![Contribuições](https://github-contributor-stats.vercel.app/api?username=2profile&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-<p>
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2profile&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
-    alt="Linguagens mais usadas por Ryan Santos"
-  />
-</p>
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=2profile&layout=compact&theme=github_dark&hide_border=true)
 
 ## Contato
 
